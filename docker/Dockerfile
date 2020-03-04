@@ -1,6 +1,6 @@
 FROM openjdk:8-alpine
 
-ENV SONAR_VERSION=7.6 \
+ENV SONAR_VERSION=7.9.2 \
     SONARQUBE_HOME=/opt/sonarqube \
     SQ_GIT_VERSION=1.8.0.1538 \
     SQ_SVN_VERSION=1.9.0.1438 \
