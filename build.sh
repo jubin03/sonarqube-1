@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-docker build -t owasp/sonarqube docker
+docker build -t jubin03/sonarqube-1 docker
